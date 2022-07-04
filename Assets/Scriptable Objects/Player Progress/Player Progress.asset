@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 786b89debe3aa964da1320117bbb78cb, type: 3}
+  m_Name: Player Progress
+  m_EditorClassIdentifier: 
+  _localFilePath: playerProgress
+  _coinsNumber: {fileID: 11400000, guid: 308aa9a29b3e4564a8a5f4b7fd287c64, type: 2}
+  _winsNumber: {fileID: 11400000, guid: 98a1daedeafa5c440838c6fe12ff0a97, type: 2}
+  _defeatsNumber: {fileID: 11400000, guid: c4571022db5c06748b0a3eb08ddac1a0, type: 2}
+  _bombsNumber: {fileID: 11400000, guid: fd380ca81ed1a9f43942e622653dcdac, type: 2}
+  _nickname: {fileID: 11400000, guid: fd5084ecaf20d7f48b77b9ba2b0bb01b, type: 2}
